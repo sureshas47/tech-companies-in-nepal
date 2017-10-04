@@ -60,7 +60,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
--[Microsoft Innovation Center Nepal](http://micnepal.org) | Unlimited Building, Khichapokhari | provides access to world-class resources for students, software developers, IT professional& entrepreneurs.
+- [Microsoft Innovation Center Nepal](http://micnepal.org) | Unlimited Building, Khichapokhari | provides access to world-class resources for students, software developers, IT professional& entrepreneurs.
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
@@ -77,7 +77,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## V - X
 - [Vianet Communications Pvt. Ltd.](https://www.vianet.com.np/) | Jawalakhel, Lalitpur | Provider of high speed Internet connectivity and communications solutions for business and individuals
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
--[WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Pashupati Plaza, Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
+- [WebSoft Nepal Pvt. Ltd.](http://www.websoftnepal.com) | Pashupati Plaza, Indradev Marg, Narayangarh | Provides a complete solution on Web Design and Hostings
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
 ## Y - \#
